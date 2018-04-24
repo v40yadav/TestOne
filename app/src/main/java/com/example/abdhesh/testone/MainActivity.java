@@ -28,6 +28,7 @@ EditText edit;
         textView=(TextView) findViewById(R.id.text);
         // Demo chmmggit dsjj
         //test 01
+        // master changes
         edit.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
